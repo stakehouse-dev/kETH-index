@@ -1,3 +1,5 @@
+# This is an early preview given AS IS with no warranty whatsoever. DO NOT DEPLOY TO MAINNET.
+
 # DETH Vault (kwETH)
 
 DETH vault is a vault contract where dETH holders can lock their funds for ETH back.
