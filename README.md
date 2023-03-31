@@ -1,4 +1,4 @@
-# This is an early preview given AS IS with no warranty whatsoever. DO NOT DEPLOY TO MAINNET.
+# This is an early preview given AS IS, WITH NO WARRANTIES, WHATSOEVER. DO NOT DEPLOY TO MAINNET.
 
 # DETH Vault (kwETH)
 
